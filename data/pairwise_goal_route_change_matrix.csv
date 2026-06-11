@@ -1,0 +1,6 @@
+,Goal_A_accuracy,Goal_B_retention,Goal_C_cost,Goal_D_stability_drift,Goal_E_specialization
+Goal_A_accuracy,0.0,0.88125,1.0,0.88125,1.0
+Goal_B_retention,0.88125,0.0,1.0,0.44375,1.0
+Goal_C_cost,1.0,1.0,0.0,1.0,1.0
+Goal_D_stability_drift,0.88125,0.44375,1.0,0.0,1.0
+Goal_E_specialization,1.0,1.0,1.0,1.0,0.0

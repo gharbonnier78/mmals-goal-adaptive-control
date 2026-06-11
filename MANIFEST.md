@@ -1,0 +1,37 @@
+# Package Manifest
+
+- `LICENSE`
+- `README.md`
+- `data/all_action_scores_by_goal.csv`
+- `data/dynamic_goal_switching_timeline.csv`
+- `data/fixed_rc2o_routes_under_goals.csv`
+- `data/goal_adaptive_selected_routes.csv`
+- `data/goal_summary.csv`
+- `data/pairwise_goal_route_change_matrix.csv`
+- `data/route_change_examples.csv`
+- `notebooks/MMALS_RC2O_8D_Goal_Adaptive_Geo_RL_FB_Colab.ipynb`
+- `outputs/all_action_scores_by_goal.csv`
+- `outputs/component_tradeoff_by_goal.png`
+- `outputs/dynamic_goal_switching_timeline.csv`
+- `outputs/dynamic_goal_switching_timeline.png`
+- `outputs/fixed_rc2o_routes_under_goals.csv`
+- `outputs/goal_adaptive_selected_routes.csv`
+- `outputs/goal_summary.csv`
+- `outputs/mmals_cl_rl_fb_conceptual_map.png`
+- `outputs/pairwise_goal_route_change_heatmap.png`
+- `outputs/pairwise_goal_route_change_matrix.csv`
+- `outputs/route_change_examples.csv`
+- `outputs/route_distribution_by_goal.png`
+- `outputs/utility_comparison_by_goal.png`
+- `paper/MMALS_Goal_Adaptive_Geo_RL_FB_article.pdf`
+- `paper/build.sh`
+- `paper/figures/component_tradeoff_by_goal.png`
+- `paper/figures/dynamic_goal_switching_timeline.png`
+- `paper/figures/mmals_cl_rl_fb_conceptual_map.png`
+- `paper/figures/pairwise_goal_route_change_heatmap.png`
+- `paper/figures/route_distribution_by_goal.png`
+- `paper/figures/utility_comparison_by_goal.png`
+- `paper/main.tex`
+- `paper/references.bib`
+- `reports/MMALS_RC2O_8D_Goal_Adaptive_report.md`
+- `scripts/create_goal_adaptive_mmals_notebook.py`
