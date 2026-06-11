@@ -2,6 +2,12 @@
 
 This repository-style package contains a reproducible smoke experiment for a goal-adaptive MMALS extension.
 
+<p align="center">
+  <a href="./paper/MMALS_Goal_Adaptive_Geo_RL_FB_article">
+    <img src="https://img.shields.io/badge/Open-Article-0B5FFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Open PDF">
+  </a>
+</p>
+
 ## What this package demonstrates
 
 The package tests whether the same synthetic MMALS/RC2O-style audit states induce different routing policies under five goals:
