@@ -3,7 +3,7 @@
 This repository-style package contains a reproducible smoke experiment for a goal-adaptive MMALS extension.
 
 <p align="center">
-  <a href="./paper/MMALS_Goal_Adaptive_Geo_RL_FB_article">
+  <a href="./paper/MMALS_Goal_Adaptive_Geo_RL_FB_article.pdf">
     <img src="https://img.shields.io/badge/Open-Article-0B5FFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Open PDF">
   </a>
 </p>
